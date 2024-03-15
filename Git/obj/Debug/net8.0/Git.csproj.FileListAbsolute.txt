@@ -1,0 +1,14 @@
+C:\Users\arvin.shadmand\source\repos\Git\Git\bin\Debug\net8.0\Git.exe
+C:\Users\arvin.shadmand\source\repos\Git\Git\bin\Debug\net8.0\Git.deps.json
+C:\Users\arvin.shadmand\source\repos\Git\Git\bin\Debug\net8.0\Git.runtimeconfig.json
+C:\Users\arvin.shadmand\source\repos\Git\Git\bin\Debug\net8.0\Git.dll
+C:\Users\arvin.shadmand\source\repos\Git\Git\bin\Debug\net8.0\Git.pdb
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.AssemblyInfoInputs.cache
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.AssemblyInfo.cs
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.csproj.CoreCompileInputs.cache
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.dll
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\refint\Git.dll
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.pdb
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\Git.genruntimeconfig.cache
+C:\Users\arvin.shadmand\source\repos\Git\Git\obj\Debug\net8.0\ref\Git.dll
